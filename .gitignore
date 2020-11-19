@@ -1,0 +1,14 @@
+/target
+/txt
+/.classpath
+/.project
+/.settings
+/logs
+/.idea
+/.idea/
+/out
+dxMall.iml
+.DS_Store
+/.svn
+/META-INF
+DesignPatterns.iml
