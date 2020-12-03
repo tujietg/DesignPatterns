@@ -3,8 +3,6 @@ package com.tujietg.singleton;
 /**
  * 不仅可以解决线程同步，还可以防止反序列化
  *
- *
- *
  * @author tujietg
  * @date 11/19/20 9:40 AM
  */
