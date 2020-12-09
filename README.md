@@ -9,4 +9,5 @@
 | 003工厂模式  | [三种工厂](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/factory) | 简单工厂，方法工厂（针对单个产品），抽象工厂（针对产品族） |
 | 004门面模式  | [回家打开电器](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/facade) | 外部与子系统的通信必须通过一个的外观对象进行。 |
 | 005调停者模式  | [主板的作用](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/mediator) | 通过封装类与类之间的交互，达到解耦的目的。 |
+| 006装饰器模式  | [4s店汽车改色](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/wrapper) | 不通过继承方式增强类的功能。 |
 
