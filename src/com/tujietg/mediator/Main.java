@@ -12,7 +12,7 @@ package com.tujietg.mediator;
 public class Main {
 
     public static void main(String[] args) {
-        
+
         // 创建调停者——主板
         MainBoard mainBoard = new MainBoard();
 
