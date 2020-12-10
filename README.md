@@ -11,3 +11,4 @@
 | 005调停者模式  | [主板的作用](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/mediator) | 通过封装类与类之间的交互，达到解耦的目的。 |
 | 006装饰器模式  | [4s店汽车改色](https://github.com/tujietg/DesignPatterns/tree/master/src/com/tujietg/wrapper) | 不通过继承方式增强类的功能。 |
 | 007责任链模式  | [发帖的filter](https://github.com/tujietg/DesignPatterns/blob/master/src/com/tujietg/chain/Main.java) | 对一个对象或者请求一系列的处理组成一个链条 |
+| 008观察者模式  | [孩子哭了怎么办？](https://github.com/tujietg/DesignPatterns/blob/master/src/com/tujietg/observer/Main.java) | 主要应用于一个对象状态发生变化时，依赖该对象的其他对象都会得到通知并更新。 |

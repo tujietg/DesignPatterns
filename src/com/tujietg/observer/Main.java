@@ -60,6 +60,7 @@ class dog implements Observer {
     private void call() {
         System.out.println("娃哭的时候 狗汪汪汪～");
     }
+
 }
 
 
