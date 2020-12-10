@@ -33,6 +33,7 @@ public class Main {
 }
 
 interface Filter {
+
     void doFilter(Message msg);
 }
 
